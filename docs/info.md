@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+I just replaced the inverters with 4 logic gates
 
 ## How to test
 
